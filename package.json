@@ -7,7 +7,7 @@
   },
   "displayName": "CodeSandbox Dark Neon",
   "description": "CodeSandbox Dark theme with the addition of pink highlighting for classes and components, lime green for 'new' keyword, and other slight adjustments.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.92.0"
   },
