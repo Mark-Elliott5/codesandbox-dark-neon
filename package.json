@@ -1,0 +1,26 @@
+{
+  "name": "codesandbox-dark-neon",
+  "publisher": "MarkElliott",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mark-Elliott5/codesandbox-dark-neon.git"
+  },
+  "displayName": "CodeSandbox Dark Neon",
+  "description": "CodeSandbox Dark theme with the addition of pink highlighting for classes and components, lime green for 'new' keyword, and other slight adjustments.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CodeSandbox Dark Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CodeSandbox Dark Neon-color-theme.json"
+      }
+    ]
+  }
+}
