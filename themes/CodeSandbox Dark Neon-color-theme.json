@@ -1,5 +1,5 @@
 {
-	"name": "CodeSandbox Dark+",
+	"name": "CodeSandbox Dark Neon",
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
 		"activityBar.activeBackground": "#151515",
@@ -849,6 +849,14 @@
 				"foreground": "#D4D4D4"
 			}
 		},
+    {
+      "scope": [
+				"variable",
+			],
+			"settings": {
+				"foreground": "#EBEBEB"
+			}
+    },
 		{
 			"scope": "emphasis",
 			"settings": {
@@ -1215,7 +1223,6 @@
 		},
 		{
 			"scope": [
-				"support.class",
 				"support.type",
 				"entity.name.type",
 				"entity.name.namespace",
