@@ -1803,7 +1803,9 @@
 		},
 		{
 			"scope": [
-				"support.variable.property,variable.other.property"
+				"support.variable.property",
+        "variable.other.property",
+        "variable.other.object"
 			],
 			"settings": {
 				"foreground": "#EBEBEB"
