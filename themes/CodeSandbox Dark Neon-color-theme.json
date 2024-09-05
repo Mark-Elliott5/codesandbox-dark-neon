@@ -22,7 +22,7 @@
 		"debugToolBar.border": "#474747",
 		"editor.background": "#151515",
 		"editor.foreground": "#d4d4d4",
-		"editor.inactiveSelectionBackground": "#3a3d41",
+		"editor.inactiveSelectionBackground": "#3a3d41d3",
 		"editor.lineHighlightBorder": "#ffffff00",
 		"editor.selectionHighlightBackground": "#add6ff26",
 		"editorError.foreground": "#f48771",
@@ -1805,7 +1805,8 @@
 			"scope": [
 				"support.variable.property",
         "variable.other.property",
-        "variable.other.object"
+        "variable.other.object",
+        "meta.object-literal.key"
 			],
 			"settings": {
 				"foreground": "#EBEBEB"
